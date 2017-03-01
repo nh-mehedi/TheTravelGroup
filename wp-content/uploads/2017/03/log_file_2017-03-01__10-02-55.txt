@@ -1,0 +1,108 @@
+
+---Downloaded files---
+The import files for: Entrada Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/thetravelgroup
+Data file = D:\wamp64\www\thetravelgroup/wp-content/uploads/2017/03/demo-content-import-file_2017-03-01__10-02-55.xml
+Widget file = D:\wamp64\www\thetravelgroup/wp-content/uploads/2017/03/demo-widgets-import-file_2017-03-01__10-02-55.json
+Customizer file = D:\wamp64\www\thetravelgroup/wp-content/uploads/2017/03/demo-customizer-import-file_2017-03-01__10-02-55.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Entrada Categories - Blog Categories - Imported
+Recent Posts - No Title - Imported
+Entrada Tag Cloud - Blog Tags - Imported
+Entrada Posts Gallery - Gallery - Imported
+Entrada Subscribe Form - Subscribe - Imported
+Recent Comments - Recent Comments - Imported
+
+Footer : 
+
+Custom Menu - About Entrada - Imported
+Custom Menu - Destinations - Imported
+Custom Menu - Themes - Imported
+Custom Menu - Reservation - Imported
+Custom Menu - Ask Entrada - Imported
+Entrada Footer Contact - Contact Entrada - Imported
+
+Listing Sidebar : 
+
+Entrada Region Filter - Select Region - Imported
+Entrada Activity Type Filter - Activity Theme - Imported
+Entrada Activity Level Filter - Activity Level - Imported
+Entrada Price Range Filter - Price Range - Imported
+Entrada Poll - Community Poll - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+Entrada Demo content import has been completed.

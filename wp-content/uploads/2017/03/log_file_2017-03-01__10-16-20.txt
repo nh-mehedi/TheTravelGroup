@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Entrada Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/thetravelgroup
+Data file = D:\wamp64\www\thetravelgroup/wp-content/uploads/2017/03/demo-content-import-file_2017-03-01__10-16-20.xml
+Widget file = D:\wamp64\www\thetravelgroup/wp-content/uploads/2017/03/demo-widgets-import-file_2017-03-01__10-16-20.json
+Customizer file = D:\wamp64\www\thetravelgroup/wp-content/uploads/2017/03/demo-customizer-import-file_2017-03-01__10-16-20.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Entrada Categories - Blog Categories - Widget already exists
+Recent Posts - No Title - Widget already exists
+Entrada Tag Cloud - Blog Tags - Widget already exists
+Entrada Posts Gallery - Gallery - Widget already exists
+Entrada Subscribe Form - Subscribe - Widget already exists
+Recent Comments - Recent Comments - Widget already exists
+
+Footer : 
+
+Custom Menu - About Entrada - Widget already exists
+Custom Menu - Destinations - Widget already exists
+Custom Menu - Themes - Widget already exists
+Custom Menu - Reservation - Widget already exists
+Custom Menu - Ask Entrada - Widget already exists
+Entrada Footer Contact - Contact Entrada - Widget already exists
+
+Listing Sidebar : 
+
+Entrada Region Filter - Select Region - Widget already exists
+Entrada Activity Type Filter - Activity Theme - Widget already exists
+Entrada Activity Level Filter - Activity Level - Widget already exists
+Entrada Price Range Filter - Price Range - Widget already exists
+Entrada Poll - Community Poll - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+Entrada Demo content import has been completed.

@@ -1,0 +1,55 @@
+
+---Downloaded files---
+The import files for: Entrada Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://entohm179.waituk.com/one-click-import
+Data file = /home/coffeec1/public_html/entohm179/one-click-import/wp-content/uploads/2016/12/demo-content-import-file_2016-12-19__07-08-44.xml
+Widget file = /home/coffeec1/public_html/entohm179/one-click-import/wp-content/uploads/2016/12/demo-widgets-import-file_2016-12-19__07-08-44.json
+Customizer file = /home/coffeec1/public_html/entohm179/one-click-import/wp-content/uploads/2016/12/demo-customizer-import-file_2016-12-19__07-08-44.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Entrada Categories - Blog Categories - Imported
+Recent Posts - No Title - Imported
+Entrada Tag Cloud - Blog Tags - Imported
+Entrada Posts Gallery - Gallery - Imported
+Entrada Subscribe Form - Subscribe - Imported
+Recent Comments - Recent Comments - Imported
+
+Footer : 
+
+Custom Menu - About Entrada - Imported
+Custom Menu - Destinations - Imported
+Custom Menu - Themes - Imported
+Custom Menu - Reservation - Imported
+Custom Menu - Ask Entrada - Imported
+Entrada Footer Contact - Contact Entrada - Imported
+
+Listing Sidebar : 
+
+Entrada Region Filter - Select Region - Imported
+Entrada Activity Type Filter - Activity Theme - Imported
+Entrada Activity Level Filter - Activity Level - Imported
+Entrada Price Range Filter - Price Range - Imported
+Entrada Poll - Community Poll - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
